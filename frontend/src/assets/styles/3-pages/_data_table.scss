@@ -1,0 +1,43 @@
+.exhibits-list-wrapper {
+  flex: 1 1 auto;
+  width: 90%;
+  margin: auto;
+  margin-top: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+
+
+  .input-group{
+    height: 32px;
+    width: 250px;
+    margin-right: 10px;
+  }
+
+  .input-group-text{
+    height: 32px;
+    cursor: pointer;
+  }
+  .filter-icon{
+    width: 40px;
+  }
+  
+  .table-header{
+    margin-bottom: 20px;
+  }
+
+  .btn-menu{
+    
+    margin: 0;
+    margin-bottom: 30px;
+    button{
+      width: 103px;
+    height: 25px;
+    font-size: 12px;
+    }
+    .row{
+      align-items: center;
+      justify-content: space-between;
+    }
+  }
+}
+

@@ -1,0 +1,41 @@
+.btn-primary:hover {
+    transition: all 0.3s ease-out;
+    background-color: $darkBlue-hover;
+    transition: 250ms;
+  }
+  
+  .btn-primary {
+    padding: 8px 20px;
+    background: $darkBlue;
+    color: $white;
+    border-radius: 2px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    width: 180px;
+    height: 32px;
+    border-radius: 8px;
+ }
+
+ .btn-primary-xsm {
+  padding: 5px 10px;
+  width: 80px;
+  height: 18px;
+  border-radius: 8px;
+  font-size: 11px;
+}
+ .btn-primary-sm {
+  padding: 5px 10px;
+  width: 140px;
+  height: 28px;
+  border-radius: 8px;
+  font-size: 13px;
+}
+
+.btn-close:hover{
+  background-color: #aaa;
+}
+
+.btn-primary-md{
+  width:200px;
+}

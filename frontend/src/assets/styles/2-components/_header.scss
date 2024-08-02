@@ -1,0 +1,40 @@
+.__header{
+    font-size: 14px;
+    color: #aaa;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 1px solid #EAEAEA;
+    
+    .container{
+
+    }
+     a{
+        font-size: 14px;
+        color: #aaa;
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 0;
+    }
+    a:hover{
+        color:#888;
+    }
+    a.dropdown-item{
+        font-size: 14px;
+        color: #888;
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 0;
+        margin: 2px;
+    }
+    .dropdown-menu a{
+        font-size: 13px;
+    }
+
+    .dropdown-menu{
+        padding: 5px;
+    }
+    a:focus{
+        color: #aaa;
+    }
+    img{
+        height: 40px;
+        width: 120px;
+    }
+}

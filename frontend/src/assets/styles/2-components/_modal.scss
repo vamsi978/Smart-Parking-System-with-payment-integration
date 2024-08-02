@@ -1,0 +1,20 @@
+.modal-content{
+    font-size: 14px;
+    color: #aaa;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+
+     
+}
+.modal-body, .modal-footer{
+    display: 'flex' !important; 
+    justify-content: 'center' !important;
+    align-items: 'center' !important;
+}   
+.modal-footer{
+    padding: 19.2px!important;
+    padding-top: 15.2px;
+}
+.modal-body{
+    border-bottom: 'none'
+}
